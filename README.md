@@ -30,7 +30,7 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
+global.owner = ["6289530037029"];
 global.author = "RezaDevv";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
@@ -52,7 +52,7 @@ $ npm start
 ## UNTUK PENGGUNA PANEL PTERODACTYL
 
 * Panel Pterodactyle [`Klik Disini`](https://panel.respayment.site)
-* Kontak Pembelian [`Klik Disini`](https://wa.me/+6285742632270)
+* Kontak Pembelian [`89530037029`](https://wa.me/+6289530037029)
 
 ```bash
 $ npm install
